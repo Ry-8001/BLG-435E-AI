@@ -1,2 +1,2 @@
 # BLG-435E-AI
-The homeworks of the course blg 435 at ITU.
+The first homework is about implementing Bomberman Agent with using several AI algortihms.
